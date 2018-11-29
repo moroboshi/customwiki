@@ -1,0 +1,80 @@
+<snippet>
+	<content><![CDATA[
+{{Tassobox
+|nome=$0
+|statocons=
+|statocons_versione=
+|statocons_ref=
+|immagine=
+|didascalia=
+|intervallo={{Intervallo geologico}}
+<!-- CLASSIFICAZIONE -->
+|dominio=
+|regno=
+|sottoregno=
+<!-- PER I VIRUS -->
+|gruppo=
+<!-- PER LE PIANTE -->
+|superdivisione=
+|divisione=
+|sottodivisione=
+<!-- PER GLI ALTRI ESSERI VIVENTI -->
+|superphylum=
+|phylum=
+|subphylum=
+|infraphylum=
+|microphylum=
+|nanophylum=
+<!-- PER TUTTI -->
+|superclasse=
+|classe=
+|sottoclasse=
+|infraclasse=
+|superordine=
+|ordine=
+|sottordine=
+|infraordine=
+|superfamiglia=
+|famiglia=
+|sottofamiglia=
+|tribù=
+|sottotribù=
+|genere=
+|genereautore=
+|sottogenere=
+|specie=
+|sottospecie=
+<!-- CLASSIFICAZIONE FILOGENETICA -->
+|FIL?=
+|regnoFIL=
+|ordineFIL=
+|famigliaFIL=
+<!-- NOMENCLATURA BINOMIALE -->
+|biautore=
+|binome=
+|bidata=
+<!-- NOMENCLATURA TRINOMIALE -->
+|triautore=
+|trinome=
+|tridata=
+<!-- SERIE TIPO -->
+|tipo=
+|tipoautore=
+|tipodata=
+|tipo2=
+|tipoautore2=
+|tipodata2=
+<!-- ALTRO -->
+|sinonimi=
+|nomicomuni=
+|suddivisione=
+|suddivisione_testo=
+|mappa_distribuzione=
+|didascalia_distribuzione=
+|adtemplate=
+}}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ttasso</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.mediawiki</scope>
+</snippet>

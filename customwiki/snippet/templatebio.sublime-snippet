@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+{{Bio
+|Nome = ${1:Nome}
+|Cognome = ${2:Cognome}
+|Sesso = ${3:M/F}
+|LuogoNascita = ${4:Città} 
+|GiornoMeseNascita = ${5:GiornoMeseNascita}
+|AnnoNascita = ${6:AnnoNascita}
+|LuogoMorte = ${7:Città}
+|GiornoMeseMorte = ${8:GiornoMeseNascita}
+|AnnoMorte = ${9:AnnoMorte}
+|Attività = ${10:Attività}
+|Nazionalità = ${11:PostAttività}
+|PostNazionalità = ${12:PostNazionalità}
+}}$0
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tbio</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.mediawiki</scope>
+</snippet>

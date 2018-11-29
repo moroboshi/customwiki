@@ -1,0 +1,48 @@
+{
+	"scope": "text.html.mediawiki",
+
+	"completions": [
+		{ "trigger": "gabilita", "contents": "[[Glossario dei giochi di ruolo#Abilità|abilità]]"},
+		{ "trigger": "gambientazione", "contents": "[[Glossario dei giochi di ruolo#Ambientazione|ambientazione]]"},
+		{ "trigger": "gavventura", "contents": "[[Glossario dei giochi di ruolo#Avventura|avventura]]"},
+		{ "trigger": "gcampagna", "contents": "[[Campagna (giochi)|campagna]]"},
+		{ "trigger": "gclasse", "contents": "[[Glossario dei giochi di ruolo#Classe|classe]]"},
+		{ "trigger": "gpersonaggio", "contents": "[[Personaggio giocante|personaggio]]"},
+		{ "trigger": "richiamo", "contents": "[[Il richiamo di Cthulhu (gioco di ruolo)|l richiamo di Cthulhu]]"},
+		{ "trigger": "gsplat", "contents": "[[Glossario dei giochi di ruolo#Splatbook|splatbook]]"},
+		{ "trigger": "gschermo", "contents": "[[Glossario dei giochi di ruolo#Schermo del master|Schermo del master]]"},
+		{ "trigger": "vbasse", "contents": "«$1»" },
+		{ "trigger": "Appelcline70", "contents": "{{Cita libro|autore=Shannon Appelcline|titolo=Designers & Dragons: The '70s|editore=Evil Hat Productions|anno=2014|ed=2|vol=1|cid=Appelcline 2014$1|lingua=inglese|ISBN=978-1-61317-075-5}}" },
+		{ "trigger": "Appelcline80", "contents": "{{Cita libro|autore=Shannon Appelcline|titolo=Designers & Dragons: The '80s|editore=Evil Hat Productions|anno=2014|ed=2|vol=1|cid=Appelcline 2014$1|lingua=inglese|ISBN=978-1-61317-075-5}}" },
+		{ "trigger": "Appelcline90", "contents": "{{Cita libro|autore=Shannon Appelcline|titolo=Designers & Dragons: The '90s|editore=Evil Hat Productions|anno=2014|ed=2|vol=1|cid=Appelcline 2014$1|lingua=inglese|ISBN=978-1-61317-075-5}}" },
+		{ "trigger": "Appelcline00", "contents": "{{Cita libro|autore=Shannon Appelcline|titolo=Designers & Dragons: The '00s|editore=Evil Hat Productions|anno=2014|ed=2|vol=1|cid=Appelcline 2014$1|lingua=inglese|ISBN=978-1-61317-075-5}}" },
+		
+		{ "trigger": "mdash", "contents": "—"},
+		{ "trigger": "vbasse", "contents": "«»"},
+		{ "trigger": "egrave", "contents": "È"},
+		{ "trigger": "E'", "contents": "È"},
+		{ "trigger": "1a", "contents": "1ª"},
+		{ "trigger": "2a", "contents": "2ª"},
+		{ "trigger": "3a", "contents": "3ª"},
+		{ "trigger": "4a", "contents": "4ª"},
+		{ "trigger": "5a", "contents": "5ª"},
+		{ "trigger": "6a", "contents": "6ª"},
+		{ "trigger": "7a", "contents": "7ª"},
+		{ "trigger": "8a", "contents": "8ª"},
+		{ "trigger": "9a", "contents": "9ª"},
+		{ "trigger": "1o", "contents": "1º"},
+		{ "trigger": "2o", "contents": "2º"},
+		{ "trigger": "3o", "contents": "3º"},
+		{ "trigger": "4o", "contents": "4º"},
+		{ "trigger": "5o", "contents": "5º"},
+		{ "trigger": "6o", "contents": "6º"},
+		{ "trigger": "7o", "contents": "7º"},
+		{ "trigger": "8o", "contents": "8º"},
+		{ "trigger": "9o", "contents": "9º"},
+		{ "trigger": "oc", "contents": "9°"},  //per gradi di temperatura
+
+		{ "trigger": "Conn", "contents": "<ref name=\"Connaughton-$1\">{{Cita|Connaughton 2003|p. $1}}</ref>$0"},
+		{ "trigger": "refConn", "contents": "<ref name=\"Connaughton-$1 />$0"  },
+
+	]
+}

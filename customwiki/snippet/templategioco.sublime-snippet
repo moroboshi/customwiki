@@ -1,0 +1,34 @@
+<snippet>
+	<content><![CDATA[
+{{Gioco
+|nome = ${1:Nome}
+|nome_originale = ${2:Nome originale}
+|tipo = ${3:tipo}
+|immagine = ${4:immagine}
+|descrizione_immagine = ${5:didascalia}
+|origine = ${6:origine}
+|autore = ${7:autore}
+|illustratore = ${8:illustratore}
+|editore = ${9:editore}
+|data = ${10:data}
+|altre_edizioni = ${11:altre edizioni} 
+|giocatori = ${12:numero di giocatori}
+|squadre = ${13:squadra}
+|giro = ${14:No se non si gioca a squadre}
+|azzardo = ${15:Sì o No}
+|mazzo = ${16:tipo di mazzo ("54 carte di semi francesi" o "40 carte di semi italiani" ...)}
+|semi = ${17:gerarchia dei semi}
+|carte = ${18:gerarchia delle carte}
+|sistema = ${19:sistema di giochi}
+|dadi = ${20:numero e tipo di dadi}
+|ambientazione = ${21:ambientazione}
+|scala = ${22:scala}
+|mappa = ${23:mappa}
+|varianti = ${24:varianti}
+}}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tgioco</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.mediawiki</scope>
+</snippet>
