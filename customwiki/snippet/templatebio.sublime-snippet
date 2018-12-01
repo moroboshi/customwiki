@@ -8,7 +8,7 @@
 |GiornoMeseNascita = ${5:GiornoMeseNascita}
 |AnnoNascita = ${6:AnnoNascita}
 |LuogoMorte = ${7:Città}
-|GiornoMeseMorte = ${8:GiornoMeseNascita}
+|GiornoMeseMorte = ${8:GiornoMeseMorte}
 |AnnoMorte = ${9:AnnoMorte}
 |Attività = ${10:Attività}
 |Nazionalità = ${11:PostAttività}
