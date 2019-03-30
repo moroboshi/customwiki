@@ -8,10 +8,10 @@
 		{ "trigger": "gcampagna", "contents": "[[Campagna (giochi)|campagna]]"},
 		{ "trigger": "gclasse", "contents": "[[Glossario dei giochi di ruolo#Classe|classe]]"},
 		{ "trigger": "gpersonaggio", "contents": "[[Personaggio giocante|personaggio]]"},
-		{ "trigger": "richiamo", "contents": "[[Il richiamo di Cthulhu (gioco di ruolo)|l richiamo di Cthulhu]]"},
+		{ "trigger": "richiamo", "contents": "[[Il richiamo di Cthulhu (gioco di ruolo)|Il richiamo di Cthulhu]]"},
 		{ "trigger": "gsplat", "contents": "[[Glossario dei giochi di ruolo#Splatbook|splatbook]]"},
 		{ "trigger": "gschermo", "contents": "[[Glossario dei giochi di ruolo#Schermo del master|Schermo del master]]"},
-		{ "trigger": "vbasse", "contents": "«$1»" },
+		{ "trigger": "vbasse", "contents": "«$1$0»" },
 		{ "trigger": "Appelcline70", "contents": "{{Cita libro|autore=Shannon Appelcline|titolo=Designers & Dragons: The '70s|editore=Evil Hat Productions|anno=2014|ed=2|vol=1|cid=Appelcline 2014$1|lingua=inglese|ISBN=978-1-61317-075-5}}" },
 		{ "trigger": "Appelcline80", "contents": "{{Cita libro|autore=Shannon Appelcline|titolo=Designers & Dragons: The '80s|editore=Evil Hat Productions|anno=2014|ed=2|vol=1|cid=Appelcline 2014$1|lingua=inglese|ISBN=978-1-61317-075-5}}" },
 		{ "trigger": "Appelcline90", "contents": "{{Cita libro|autore=Shannon Appelcline|titolo=Designers & Dragons: The '90s|editore=Evil Hat Productions|anno=2014|ed=2|vol=1|cid=Appelcline 2014$1|lingua=inglese|ISBN=978-1-61317-075-5}}" },
@@ -41,7 +41,7 @@
 		{ "trigger": "9o", "contents": "9º"},
 		{ "trigger": "oc", "contents": "9°"},  //per gradi di temperatura
 
-		{ "trigger": "Conn", "contents": "<ref name=\"Connaughton-$1\">{{Cita|Connaughton 2003|p. $1}}</ref>$0"},
+		{ "trigger": "Conn", "contents": "$0<ref name=\"Connaughton-$1\">{{Cita|Connaughton 2003|p. $1}}</ref>"},
 		{ "trigger": "refConn", "contents": "<ref name=\"Connaughton-$1 />$0"  },
 
 	]
